@@ -3,7 +3,7 @@ import photo from "../../assets/images/profile2.png";
 const AboutMe = () => {
   return (
     <section className="about-me" id="about">
-      <h2 className="section__h2 section__title--about">WHo I am</h2>
+      <h2 className="section__h2 section__title--about">Who I am</h2>
       <p className="section__subtitle section__subtitle--about">
         Lorem ipsum dolor sit.
       </p>
