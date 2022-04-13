@@ -21,7 +21,7 @@ const Services = () => {
         />
       </div>
       <a href="#work" className="btn">
-        My Work
+        See My Work
       </a>
     </section>
   );
