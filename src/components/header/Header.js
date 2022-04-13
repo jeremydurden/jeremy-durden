@@ -1,8 +1,10 @@
+import logo from "../../assets/images/logo.png";
+
 const Header = () => {
   return (
-    <header>
+    <header className="header">
       <div className="logo">
-        <p>logo</p>
+        <img src={logo} alt="" />
       </div>
       <button className="nav-toggle" aria-label="toggle navigation">
         <span className="hamburger"></span>
