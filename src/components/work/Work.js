@@ -6,8 +6,10 @@ import photo3 from "../../assets/images/portfolio-03.jpg";
 const Work = (props) => {
   return (
     <section className="my-work" id="work">
-      <h2 className="section__title">My Work</h2>
-      <p className="section__subtitle">work, work, work, work, work</p>
+      <h2 className="section__title section__title--work">Portfolio</h2>
+      <p className="section__subtitle section__subtitle--work">
+        A Selection of my Projects
+      </p>
       <div className="portfolio">
         <PortfolioItem link="www.google.com" img={photo1} />
         <PortfolioItem link="www.google.com" img={photo2} />
