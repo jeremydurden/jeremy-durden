@@ -5,7 +5,7 @@ const AboutMe = () => {
     <section className="about-me" id="about">
       <h2 className="section__h2 section__title--about">Who I am</h2>
       <p className="section__subtitle section__subtitle--about">
-        Developer—based out of Seattle, WA.
+        Developer based out of Seatte, WA
       </p>
       <div className="about-me__body">
         <p>
@@ -21,7 +21,11 @@ const AboutMe = () => {
           quis dolorum quod eveniet.
         </p>
       </div>
-      <img src={photo} alt="me standing and laughing" />
+      <img
+        src={photo}
+        alt="me standing and laughing"
+        className="about-me__img"
+      />
     </section>
   );
 };
