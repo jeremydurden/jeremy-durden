@@ -11,9 +11,9 @@ const Work = (props) => {
         A Selection of my Projects
       </p>
       <div className="portfolio">
-        <PortfolioItem link="www.google.com" img={photo1} />
-        <PortfolioItem link="www.google.com" img={photo2} />
-        <PortfolioItem link="www.google.com" img={photo3} />
+        <PortfolioItem url="https://www.google.com" img={photo1} />
+        <PortfolioItem url="https://www.google.com" img={photo2} />
+        <PortfolioItem url="https://www.google.com" img={photo3} />
       </div>
     </section>
   );
