@@ -1,5 +1,4 @@
 const PortfolioItem = (props) => {
-  console.log(props.url);
   return (
     <a
       href={props.url}

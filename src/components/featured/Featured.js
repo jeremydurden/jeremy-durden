@@ -16,7 +16,7 @@ const Services = () => {
           body="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi, quis dolorum quod eveniet."
         />
         <Service
-          title="Restful"
+          title="Learning"
           body="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi, quis dolorum quod eveniet."
         />
       </div>
