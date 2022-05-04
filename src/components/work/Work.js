@@ -1,7 +1,7 @@
 import PortfolioItem from "../portfolio-item/PortfolioItem";
-import photo1 from "../../assets/images/portfolio-01.jpg";
-import photo2 from "../../assets/images/portfolio-02.jpg";
-import photo3 from "../../assets/images/portfolio-03.jpg";
+import speedTyping from "../../assets/images/speed-typing.png";
+import simpleLifeBlog from "../../assets/images/simple-life-blog.png";
+import quizzical from "../../assets/images/quizzical.png";
 
 const Work = (props) => {
   return (
@@ -11,9 +11,18 @@ const Work = (props) => {
         A Selection of my Projects
       </p>
       <div className="portfolio">
-        <PortfolioItem url="https://www.google.com" img={photo1} />
-        <PortfolioItem url="https://www.google.com" img={photo2} />
-        <PortfolioItem url="https://www.google.com" img={photo3} />
+        <PortfolioItem
+          url="https://github.com/jeremydurden/simple-life-blog"
+          img={simpleLifeBlog}
+        />
+        <PortfolioItem
+          url="https://github.com/jeremydurden/quiz-game"
+          img={quizzical}
+        />
+        <PortfolioItem
+          url="https://github.com/jeremydurden/speedtyping"
+          img={speedTyping}
+        />
       </div>
     </section>
   );
