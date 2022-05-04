@@ -9,16 +9,16 @@ const AboutMe = () => {
       </p>
       <div className="about-me__body">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
-          animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam
-          tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi,
-          quis dolorum quod eveniet.
+          When I'm not at my computer, I love being able to take advantage of
+          everything that the Pacific Northwest has to offer. Living in Seattle,
+          WA, I have quick access to the mountains, fresh water, fantastic food
+          and restaurants as well as miles miles of trails for hiking.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
-          animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam
-          tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi,
-          quis dolorum quod eveniet.
+          I love climbing—primarily bouldering—but also some sport routes when I
+          can. I spend most of my climbing time in the gym, but will happily
+          climb outdoors when the weather permits. In my free time I also like
+          reading fiction, cooking and watching movies.
         </p>
       </div>
       <img

@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-accent: #0B93E3;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -36,6 +36,10 @@
 }
 
 /* General styles */
+
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     background: var(--clr-light);
@@ -248,6 +252,7 @@ h3 { font-size: var(--fs-h3) }
 
 .intro {
     position: relative;
+    
 }
 
 .intro__img {
@@ -347,6 +352,11 @@ h3 { font-size: var(--fs-h3) }
     box-shadow: var(--bs);
 }
 
+.section__title--about
+{
+   margin-bottom: .5em;
+}
+
 @media (min-width: 600px) {
     .about-me {
         display: grid;
@@ -362,6 +372,8 @@ h3 { font-size: var(--fs-h3) }
     .section__title--about
      {
         grid-area: title;
+        margin-bottom: .25em;
+        
     }
 
     .section__subtitle--about {

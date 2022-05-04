@@ -29,10 +29,11 @@ const Header = () => {
           <List
             removeClass={removeClass}
             url="#services"
-            text="What I'm Doing"
+            text="What I'm Excited About"
           />
           <List removeClass={removeClass} url="#about" text="About Me" />
           <List removeClass={removeClass} url="#work" text="My Work" />
+          <List removeClass={removeClass} url="#footer" text="Contact Me" />
         </ul>
       </nav>
     </header>

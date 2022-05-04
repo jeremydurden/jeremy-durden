@@ -9,15 +9,15 @@ const Services = () => {
       <div className="services">
         <Service
           title="Development"
-          body="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi, quis dolorum quod eveniet."
-        />
-        <Service
-          title="React"
-          body="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi, quis dolorum quod eveniet."
+          body="As a new developer, I wasn't sure what to expect when I first began coding.  I think what I did expect was a less creative outlet than what I found.  Being a developer means constantly having to come up with new and creative solutions for problems "
         />
         <Service
           title="Learning"
-          body="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae animi temporibus, placeat mollitia repellat, quibusdam ipsa ipsam tenetur unde itaque numquam reprehenderit ratione. Aut delectus quasi, quis dolorum quod eveniet."
+          body="The only way that most of us are going to be able to solve the problems we learn into is by learning new skills.  One of the most exciting things about working in any sort of techology field is just how fast things can change.  Being able to take on new challenges means always being ready to leanr something new."
+        />
+        <Service
+          title="React"
+          body="React is a JavaScript library that allows developers to build user interfaces.  Developed by Facebook, it is clearly not just a fad tecnology.  It is used by millions of developers who make up a thriving community.  "
         />
       </div>
       <a href="#work" className="btn">
