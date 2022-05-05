@@ -12,7 +12,7 @@ const AboutMe = () => {
           When I'm not at my computer, I love being able to take advantage of
           everything that the Pacific Northwest has to offer. Living in Seattle,
           WA, I have quick access to the mountains, fresh water, fantastic food
-          and restaurants as well as miles miles of trails for hiking.
+          and restaurants as well as miles and miles of trails for hiking.
         </p>
         <p>
           I love climbing—primarily bouldering—but also some sport routes when I
