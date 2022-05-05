@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jeremy-durden/static/css/main.47d99a97.css",
-    "main.js": "/jeremy-durden/static/js/main.5a28bc4d.js",
+    "main.js": "/jeremy-durden/static/js/main.6a1df293.js",
     "static/media/profile2.png": "/jeremy-durden/static/media/profile2.b83c68e57e3fe577ba21.png",
     "static/media/simple-life-blog.png": "/jeremy-durden/static/media/simple-life-blog.44569618eeffc918d05b.png",
     "static/media/profile.jpeg": "/jeremy-durden/static/media/profile.f16222477a8625427c4d.jpeg",
@@ -11,10 +11,10 @@
     "static/media/logo.png": "/jeremy-durden/static/media/logo.98960c0dd5480af12b53.png",
     "index.html": "/jeremy-durden/index.html",
     "main.47d99a97.css.map": "/jeremy-durden/static/css/main.47d99a97.css.map",
-    "main.5a28bc4d.js.map": "/jeremy-durden/static/js/main.5a28bc4d.js.map"
+    "main.6a1df293.js.map": "/jeremy-durden/static/js/main.6a1df293.js.map"
   },
   "entrypoints": [
     "static/css/main.47d99a97.css",
-    "static/js/main.5a28bc4d.js"
+    "static/js/main.6a1df293.js"
   ]
 }
