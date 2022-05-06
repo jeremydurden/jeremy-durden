@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jeremydurden.dev/static/css/main.bb8017c6.css",
-    "main.js": "/jeremydurden.dev/static/js/main.c0f9cc21.js",
-    "static/media/profile2.png": "/jeremydurden.dev/static/media/profile2.b83c68e57e3fe577ba21.png",
-    "static/media/simple-life-blog.png": "/jeremydurden.dev/static/media/simple-life-blog.44569618eeffc918d05b.png",
-    "static/media/profile.jpeg": "/jeremydurden.dev/static/media/profile.f16222477a8625427c4d.jpeg",
-    "static/media/services-bg.jpg": "/jeremydurden.dev/static/media/services-bg.f1ca14a06879defdb540.jpg",
-    "static/media/quizzical.png": "/jeremydurden.dev/static/media/quizzical.cb3572d0da29d6effc68.png",
-    "static/media/speed-typing.png": "/jeremydurden.dev/static/media/speed-typing.bd953f9f05d4690824ef.png",
-    "static/media/logo.png": "/jeremydurden.dev/static/media/logo.98960c0dd5480af12b53.png",
-    "index.html": "/jeremydurden.dev/index.html",
-    "main.bb8017c6.css.map": "/jeremydurden.dev/static/css/main.bb8017c6.css.map",
-    "main.c0f9cc21.js.map": "/jeremydurden.dev/static/js/main.c0f9cc21.js.map"
+    "main.css": "/static/css/main.3a197b1a.css",
+    "main.js": "/static/js/main.536d6954.js",
+    "static/media/profile2.png": "/static/media/profile2.b83c68e57e3fe577ba21.png",
+    "static/media/simple-life-blog.png": "/static/media/simple-life-blog.44569618eeffc918d05b.png",
+    "static/media/profile.jpeg": "/static/media/profile.f16222477a8625427c4d.jpeg",
+    "static/media/services-bg.jpg": "/static/media/services-bg.f1ca14a06879defdb540.jpg",
+    "static/media/quizzical.png": "/static/media/quizzical.cb3572d0da29d6effc68.png",
+    "static/media/speed-typing.png": "/static/media/speed-typing.bd953f9f05d4690824ef.png",
+    "static/media/logo.png": "/static/media/logo.98960c0dd5480af12b53.png",
+    "index.html": "/index.html",
+    "main.3a197b1a.css.map": "/static/css/main.3a197b1a.css.map",
+    "main.536d6954.js.map": "/static/js/main.536d6954.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb8017c6.css",
-    "static/js/main.c0f9cc21.js"
+    "static/css/main.3a197b1a.css",
+    "static/js/main.536d6954.js"
   ]
 }
